@@ -1,0 +1,26 @@
+.header__contayner {
+    width: 1280px;
+    margin: 0 auto;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 44px;
+  }
+  .nav__list {
+    display: flex;
+    font-family: "Barlow", sans-serif;
+    margin-top: 16px;
+    gap: 32px;
+    list-style: none;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888f;
+  }
+  .nav__item:hover {
+    color: #333d4b;
+    cursor: pointer;
+  }

@@ -1,0 +1,92 @@
+.title {
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888f;
+    font-family: "Fraunces", serif;
+    margin-top: 326px;
+  }
+  .bg__hr {
+    display: flex;
+    margin-top: 95px;
+  }
+  .hr {
+    background: url(../images/hr.svg);
+    width: 760px;
+    height: 2px;
+  }
+  .oval__1 {
+    background: url(../images/Oval.svg);
+    width: 31px;
+    height: 31px;
+    margin-top: -14px;
+  }
+  
+  .oval__2 {
+    background: url(../images/Oval.svg);
+    width: 31px;
+    height: 31px;
+    margin-left: 380px;
+    margin-top: -30px;
+  }
+  
+  .oval__3 {
+    background: url(../images/Oval.svg);
+    width: 31px;
+    height: 31px;
+    margin-left: 760px;
+    margin-top: -31px;
+  }
+  
+  .card__info {
+    display: flex;
+    margin-top: 67px;
+    gap: 95px;
+  }
+  .card__everything {
+    display: flex;
+    flex-direction: column;
+  }
+  .card__texts {
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #fdd6ba;
+  }
+  .card__titles {
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333d4b;
+    margin-top: 38px;
+    width: 255px;
+  }
+  .card__infos {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333d4b;
+    font-family: "Barlow", sans-serif;
+    width: 285px;
+    margin-top: 42px;
+  }
+  .section__btn {
+    background: #0e8784;
+    border-radius: 6px;
+    width: 217px;
+    height: 56px;
+    border: none;
+    margin-top: 64px;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #fefcf7;
+    font-family: "Fraunces", serif;
+    cursor: pointer;
+  }
+  .section__btn:active {
+    background: #66d2cf;
+  }

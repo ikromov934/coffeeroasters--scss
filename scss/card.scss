@@ -1,0 +1,28 @@
+.section__card {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -70px;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+  }
+  .card__title {
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #333d4b;
+    margin-top: 70px;
+  }
+  .card__text {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #333d4b;
+    width: 255px;
+    margin-top: 24px;
+  }
